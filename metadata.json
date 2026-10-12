@@ -1,0 +1,7 @@
+{
+  "name": "Lumix4K AI Studio",
+  "description": "Micro SaaS for 4K photo creation, neural enhancement, prompt editing, and batch processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
